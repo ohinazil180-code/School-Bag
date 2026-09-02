@@ -1,0 +1,6 @@
+{
+  "name": "Digital School Bag",
+  "description": "Digital School Bag app suite for Students, Parents, and School Administrators featuring homework, notes, timetable, exams, results, notice board, fees, and attendance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
